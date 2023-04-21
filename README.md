@@ -1,23 +1,13 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-  <div id="badges">    
-   <a href="https://www.linkedin.com/in/shubham-girase-bb25b6bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+### :star2: Hey folks! 👋
+ - ![](https://komarev.com/ghpvc/?username=Shubham-5&style=flat-square&label=PROFILE+VIEWS)
 
+---
 ### :woman_technologist: About Me :
 - 🌱 I’m currently learning MERN Stack development...
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-girase-bb25b6bb/)
-<!-- ![](https://komarev.com/ghpvc/?username=Shubham-5&style=flat-square) -->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
